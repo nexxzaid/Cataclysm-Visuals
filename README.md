@@ -1,5 +1,5 @@
 ﻿# Cataclysm Visuals
-[English](README_EN.md)
+[English](https://github.com/nexxzaid/Cataclysm-Visuals/blob/main/README_EN.md)
 
 Этот репозиторий содержит обфусцированный Lua-скрипт для Roblox.
 
@@ -11,3 +11,4 @@
 1. Установите и запустите совместимый инжектор для Roblox.
 2. Скопируйте содержимое CataclysmVisuals.lua из этого репозитория.
 3. Вставьте его в инжектор и выполните инжект в процессе Roblox.
+
